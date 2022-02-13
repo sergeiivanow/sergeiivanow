@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sergei
 
 ## I'm a cross-platform Mobile Developer
-- 💪 I like to write code
+- 👨‍💻 I like to write code
 - 🙃  I like to learn more
 
 ### Languages and Tools:
