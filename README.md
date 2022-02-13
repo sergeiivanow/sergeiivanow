@@ -17,7 +17,6 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeiivanow&layout=compact&hide=css,html&theme=dark" alt="githubprofilecard"/>
 <br />
-<br />
-<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=sergeiivanow&badge&colormode=dark_mode"/>
+<a href="https://www.codewars.com/users/sergeiivanow"><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=sergeiivanow&badge&colormode=dark_mode"/></a>
 
 
